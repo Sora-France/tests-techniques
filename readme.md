@@ -47,8 +47,7 @@ Vous allez développer une petite application web pour gérer une liste de tâch
 ## Instructions
 
 1. Documentation : Utilisez la documentation officielle de Symfony pour vous aider.
-2. Durée : Vous avez 3 heures pour réaliser ce test.
-3. Livrables :
+2. Livrables :
 - Le code source complet de l'application Symfony.
 - Un fichier README.md expliquant comment installer et lancer l'application.
 
