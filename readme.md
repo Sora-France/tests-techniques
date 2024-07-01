@@ -50,7 +50,6 @@ Vous allez développer une petite application web pour gérer une liste de tâch
 2. Durée : Vous avez 3 heures pour réaliser ce test.
 3. Livrables :
 - Le code source complet de l'application Symfony.
-- Une base de données SQLite ou MySQL contenant quelques exemples de tâches.
 - Un fichier README.md expliquant comment installer et lancer l'application.
 
 ## Critères d'évaluation
